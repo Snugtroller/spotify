@@ -57,6 +57,7 @@ const MainContent = () => {
           </div>
           <Image
             src={Play}
+            alt="Play"
             className="w-[40px] ml-[190px] mt-[-30px] cursor-pointer"
           />
         </div>
